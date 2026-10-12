@@ -1,0 +1,4 @@
+Changes:
+deleted routes/about.tsx
+components/Footer.tsx
+routes/position.tsx

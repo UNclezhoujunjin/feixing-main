@@ -1,0 +1,2 @@
+翻牌随机范围: 001.jpg-064.jpg
+图片路径: /images/cards/

@@ -1,0 +1,4 @@
+已修改:
+created static/positions.backup.js
+updated static/positions.js
+updated static/card.js

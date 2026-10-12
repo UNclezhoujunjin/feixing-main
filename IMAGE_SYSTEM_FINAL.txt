@@ -1,0 +1,4 @@
+最后一步完成:
+added lib/image-loader.ts
+prepared routes/positions.tsx
+prepared routes/card.tsx

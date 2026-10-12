@@ -1,0 +1,27 @@
+Modified files:
+islands/position-list.tsx
+
+Keyword report:
+fresh.gen.ts: vip
+islands/vip.tsx: vip, lockVip
+components/Button.tsx: order
+components/Footer.tsx: order
+static/card_version.js: vip
+static/positions.js: vip
+routes/card_version.tsx: order
+routes/position.tsx: order
+routes/index.tsx: order
+routes/ai.tsx: order
+routes/171717.tsx: vip
+routes/unopen.tsx: order
+routes/card.tsx: order
+static/js/jquery.min.js: password, order
+static/fxq/static/js/pages-index-index~pagesA-chess-chess~pagesA-custom-custom~pagesA-version-version.256e16e0.js: order
+static/fxq/static/js/chunk-vendors.e4450f0a.js: password, pay, order
+static/fxq/static/js/pagesA-chess-chess~pagesA-custom-custom.e6afbc12.js: order, price
+static/fxq/static/js/pages-index-index~pagesA-chess-chess.6804d167.js: order
+static/fxq/static/js/pagesA-custom-custom.a9199e62.js: password, order
+static/fxq/static/js/pages-index-index.8ffa1186.js: vip, lockVip, psw, order, 识别码
+static/fxq/static/js/pagesA-chess-chess.9812b8b8.js: vip, lockVip, order
+static/fxq/static/js/index.d2dcdf5b.js: vip, lockVip, password, psw, pay, order, price
+static/fxq/static/js/pagesA-version-version.c34c82eb.js: order

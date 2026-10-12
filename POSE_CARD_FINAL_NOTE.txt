@@ -1,0 +1,3 @@
+修正完成:
+任务卡牌: 恢复随机文字(card.js)
+姿势卡牌: 使用positions.js随机读取/images/cards/001-064.jpg

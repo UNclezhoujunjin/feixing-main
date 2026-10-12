@@ -1,0 +1,3 @@
+created static/images/README.txt
+created static/images/positions and cards
+updated islands/position-list.tsx image loading
